@@ -12,7 +12,7 @@ This is a project that was created for the main purpose of practising front end 
 
  ## picture sample of our work;
  ##Large Screen Sections
- <img src="first-1/Screenshot(283).png">
+ <img src="../first-1/Screenshot(283).png">
 
 
 
