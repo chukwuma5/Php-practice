@@ -1,0 +1,81 @@
+/*deepred*/
+filter{
+    color: #6a040f;
+    color: #d00000;
+    color: #a4133c;
+    color: #c1121f;
+    color: #ef233c;
+    color: #ba181b;
+    color: #ff0a54;
+    color: #c71f37;
+    color: #e01e37;
+    color: #da1e37;
+    color: #bd1f36;
+    color: #ff0000;
+    color: #ff002b;
+}
+
+/*black*/
+foreignObject{
+    color: #03071e;
+    color: #220901;
+    color: #2b2d42;
+    color: #001427;
+    color: #000022;
+    color: #0a100d;
+    color: #141414;
+}
+
+/*white*/
+feFuncG{
+    color: #edf2f4;
+    color: #d3d3d3;
+    color: #f5f3f4;
+    color: #ffffff;
+    color: #fbf5f3;
+}
+
+/*yellow*/
+radialGradient{
+    color: #ffd60a;
+    color: #ffd500;
+    color: #fcf300;
+    color: #fdc500;
+    color: #ffd325;
+    color: #ffcc16;
+    color: #ffda33;
+    color: #fcf300;
+}
+
+/*yellow*/
+line{
+    color: #ffc8dd;
+    color: #ffafcc;
+    color: #a480cf;
+    color: #d264b6;
+
+}
+
+/*green*/
+.line2{
+    color: #b7e4c7;
+    color: #95d5b2;
+    columns: #52b788;
+    color: #40916c;
+    color: #b5e48c;
+color: #76c893;
+color: #34a0a4;
+color: #aacc00;
+color: #aacc00;
+color: #eeef20;
+color: #036666;
+color: #56ab91;
+color: #78c6a3;
+color: #80ed99;
+color: #b5ffe1;
+color: #208b3a;
+color: #2dc653;
+color: #4ad66d;
+color: #6ede8a;
+color: #d1ffd7;
+}
