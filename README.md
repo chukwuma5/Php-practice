@@ -60,7 +60,7 @@ This is a project that was created for the main purpose of practising front end 
 
     <img src="first-1/slim3.png">
 
-    <img src="first-1/slim1.png">
+    <img src="slim1.png">
     
 
     -This is the footer section in the home page, below dates you can see working hours, time was during the morning so they were closed.Both screen sizes are shown
