@@ -13,7 +13,7 @@ This is a project that was created for the main purpose of practising front end 
  ## picture sample of our work;
  ##Large Screen Sections
  <img src="first-1/ada.png">
- 
+
 
   ##Small Screen Sections
  <img src="eight/gobe.png">
@@ -50,7 +50,9 @@ This is a project that was created for the main purpose of practising front end 
      - Bringing out live features and dates changes in the script.
      - Helped in the sending of orders using email sendings
 
-     ## WORK VIEW.
+
+
+   ## WORK VIEW.
 
     ##STARTING WITH THE HOME SECTION
     -This how the home page looks, on both small and large screen.
@@ -84,31 +86,27 @@ This is a project that was created for the main purpose of practising front end 
     
     ##WE MOVE TO THE MENU and SIGN-IN SECTION
     -This is the section where we can view whatever we want to order, to place our orders, we have to first login, so we have to input whatever we want our names to be seen as;
-     <img src="fourth/slim11.png">
+     <img src="fourth-4/slim11.png">
 
-      <img src="fourth/slim12.png">
+      <img src="fourth-4/slim12.png">
      
-     <img src="fourth/slim13.png">
+     <img src="fourth-4/slim13.png">
 
     -This is the menu section in digfferent screen sizes.
     
     <img src="third-3/slim15.png">
-
     <img src="third-3/slim17.png">
-    
     <img src="third-3/slim16.png">
     
     -The login sections for user to place their input.
-    <img src="fourth/slim18).png">
+    <img src="fourth-4/slim18.png">
     
    
    NOTE: Donot use a name that has already been in excistense, and also a wrong value when you want to login if not your outcome will look like this both on small screen and large screens:
 
-    <img src="fourth/slim19.png">
-
-    <img src="fourth/slim20.png">
-
-    <img src="fourth/zara.png">
+    <img src="fourth-4/slim19.png">
+    <img src="fourth-4/slim20.png">
+    <img src="fourth-4/zara.png">
 
     -Congratulatory mesage after order been placed through email sending
     <img src="fivth-5/zara2.png">
@@ -116,10 +114,9 @@ This is a project that was created for the main purpose of practising front end 
     <img src="fivth-5/zara3.png">
 
     -You can also view  and save your work by following the procedures, It looks like his:
+
     <img src="fivth-5/zara6.png">
-
     <img src="fivth-5/zara5.png">
-
     <img src="fivth-5/zara4.png">
 
    ##WE MOVE TO THE BLOG SECTIONS
