@@ -29,17 +29,17 @@ This is a project that was created for the main purpose of practising front end 
       
  ##PROCESS ##PROCESS ##PROCESS
       
-     OVERVIEW(/.HTML/)
+    OVERVIEW(/.HTML/)
    
-   - practise using the sematic mark-up for better work output.
+   -practise using the sematic mark-up for better work output.
    
-   - practise using sematic elements, headers, and paragraph tags.
+   -practise using sematic elements, headers, and paragraph tags.
    
-   - practise proper linking of pages within a container, both externally and internally.
+   -practise proper linking of pages within a container, both externally and internally.
    
-   - structure of differen, and proper display of markup's in a container.
+   -structure of differen, and proper display of markup's in a container.
    
-   - also practised for the building of modern website using block level,inline and float property.
+   -also practised for the building of modern website using block level,inline and float property.
    
    
            
