@@ -69,48 +69,58 @@ This is a project that was created for the main purpose of practising front end 
     
     -The login sections for user to place their input.
   <img src="fourth-4/slim18.png">
-    
    
    NOTE: Donot use a name that has already been in excistense, and also a wrong value when you want to login if not your outcome will look like this both on small screen and large screens:
 
-    <img src="fourth-4/slim19.png">
-    <img src="fourth-4/slim20.png">
-    <img src="fourth-4/zara.png">
+  <img src="fourth-4/slim19.png">
+
+  <img src="fourth-4/slim20.png">
+
+  <img src="fourth-4/zara.png">
 
     -Congratulatory mesage after order been placed through email sending
-    <img src="fivth-5/zara2.png">
+  <img src="fivth-5/zara2.png">
 
-    <img src="fivth-5/zara3.png">
+  <img src="fivth-5/zara3.png">
 
     -You can also view  and save your work by following the procedures, It looks like his:
 
-    <img src="fivth-5/zara6.png">
-    <img src="fivth-5/zara5.png">
-    <img src="fivth-5/zara4.png">
+  <img src="fivth-5/zara6.png">
+
+  <img src="fivth-5/zara5.png">
+
+  <img src="fivth-5/zara4.png">
 
    ##WE MOVE TO THE BLOG SECTIONS
    -This section is created  for the purpose of viewing and following any new update in services and other related things, that's the look on large and small screens
 
-    <img src="sixth-6/zara8.png">
-    <img src="sixth-6/zara9.png">
-    <img src="sixth-6/zara10.png">
+  <img src="sixth-6/zara8.png">
 
+  <img src="sixth-6/zara9.png">
+
+  <img src="sixth-6/zara10.png">
 
 
    ##WE MOVE TO THE GALLERY/SOCIAL MEDIA SECTION
    -This is the gallery sections where you see foods,drinks and more services they offer, also they tend to promote their social media networks in this section because this place is set out for them.Both large and meduim devices are viewed here.
-    <img src="seventh-7/zara11.png">
-    <img src="seventh-7/zara12.png">
-    <img src="seventh-7/zara14.png">
-    <img src="seventh-7/zara13.png">
+  <img src="seventh-7/zara11.png">
+
+  <img src="seventh-7/zara12.png">
+
+  <img src="seventh-7/zara14.png">
+
+  <img src="seventh-7/zara13.png">
 
 
     ##WE MOVE TO THE CONTACT-US SECTION
-    -This is where our php mailer functions comes in place. We created this section for reaching to users more efficiently.Here's how it looks :
-    <img src="eight/zara15.png">
-    <img src="eight/zara16.png">
-    <img src="eight/zara17.png">
-     <img src="eight/zara18.png">
+    -This is where our php mailer functions comes in place. We created this section for reaching to users more efficiently.Here's how it looks:
+  <img src="eight/zara15.png">
+
+  <img src="eight/zara16.png">
+
+  <img src="eight/zara17.png">
+
+  <img src="eight/zara18.png">
 
 
 
