@@ -53,20 +53,22 @@ This is a project that was created for the main purpose of practising front end 
     
     ##WE MOVE TO THE MENU and SIGN-IN SECTION
     -This is the section where we can view whatever we want to order, to place our orders, we have to first login, so we have to input whatever we want our names to be seen as;
-     <img src="fourth-4/slim11.png">
+  <img src="fourth-4/slim11.png">
 
-      <img src="fourth-4/slim12.png">
+  <img src="fourth-4/slim12.png">
      
-     <img src="fourth-4/slim13.png">
+  <img src="fourth-4/slim13.png">
 
     -This is the menu section in digfferent screen sizes.
     
-    <img src="third-3/slim15.png">
-    <img src="third-3/slim17.png">
-    <img src="third-3/slim16.png">
+  <img src="third-3/slim15.png">
+
+  <img src="third-3/slim17.png">
+
+  <img src="third-3/slim16.png">
     
     -The login sections for user to place their input.
-    <img src="fourth-4/slim18.png">
+  <img src="fourth-4/slim18.png">
     
    
    NOTE: Donot use a name that has already been in excistense, and also a wrong value when you want to login if not your outcome will look like this both on small screen and large screens:
