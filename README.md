@@ -7,6 +7,7 @@
  Thank you for checking this piece of work. 
 
 ##ABOUT THIS WORK:
+
 This is a project that was created for the main purpose of practising front end technology(HTML, CSS and Java-Script) with a litle addition of back-end technology. This is a restaurant website which is to offer services such as ordering goods through sending of emails, viewing of any order, signing-in/up for customer's who want to order food, and much more, with also some live features like dates of the day alongside opening and closing working ours. So let's jump right into it.
 
 
