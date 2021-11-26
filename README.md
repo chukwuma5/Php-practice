@@ -13,11 +13,10 @@ This is a project that was created for the main purpose of practising front end 
  ## picture sample of our work;
  ##Large Screen Sections
  <img src="first-1/ada.png">
-
-
+ 
 
   ##Small Screen Sections
- <img src="eight/Screenshot(330).png">
+ <img src="eight/gobe.png">
 
  ## Built with         
     -HTML(Hypertext Mark-up Language)
@@ -55,97 +54,97 @@ This is a project that was created for the main purpose of practising front end 
 
     ##STARTING WITH THE HOME SECTION
     -This how the home page looks, on both small and large screen.
-    <img src="first-1/Screenshot(279).png">
+    <img src="first-1/slim2.png">
 
-    <img src="first-1/Screenshot(283).png">
+    <img src="first-1/slim3.png">
 
-    <img src="first-1/Screenshot(280).png">
+    <img src="first-1/slim1.png">
     
 
     -This is the footer section in the home page, below dates you can see working hours, time was during the morning so they were closed.Both screen sizes are shown
     
-    <img src="eight/Screenshot(355).png">
+    <img src="first-1/slim4.png">
 
-    <img src="eight/Screenshot(284).png">
+    <img src="first-1/slim5.png">
     
     -In the contact us section when you clicvk on email a pop-up comes up, view:
-    <img src="first-1/Screenshot(285).png">
+    <img src="first-1/slim6.png">
     
     -Look at the beautiful discover me section.
-    <img src="second-2/Screenshot(282).png">
+    <img src="second-2/slim10.png">
 
     ##WE MOVE TO THE TEAM and ABOUT US SECTION
     -These are the various people working here: view.
-    <img src="second-2/Screenshot(358).png">
+    <img src="second-2/slim7.png">
 
-    <img src="second-2/Screenshot(357).png">
+    <img src="second-2/slim8.png">
 
-    <img src="second-2/Screenshot(356).png">
+    <img src="second-2/slim9.png">
     
     
     ##WE MOVE TO THE MENU and SIGN-IN SECTION
     -This is the section where we can view whatever we want to order, to place our orders, we have to first login, so we have to input whatever we want our names to be seen as;
-     <img src="fourth/Screenshot(346).png">
+     <img src="fourth/slim11.png">
 
-      <img src="fourth/Screenshot(347).png">
+      <img src="fourth/slim12.png">
      
-     <img src="fourth/Screenshot(345).png">
+     <img src="fourth/slim13.png">
 
     -This is the menu section in digfferent screen sizes.
     
-    <img src="third-3/Screenshot(354).png">
+    <img src="third-3/slim15.png">
 
-    <img src="third-3/Screenshot(352).png">
+    <img src="third-3/slim17.png">
     
-    <img src="third-3/Screenshot(353).png">
+    <img src="third-3/slim16.png">
     
     -The login sections for user to place their input.
-    <img src="fourth/Screenshot(348).png">
+    <img src="fourth/slim18).png">
     
    
    NOTE: Donot use a name that has already been in excistense, and also a wrong value when you want to login if not your outcome will look like this both on small screen and large screens:
 
-    <img src="fourth/Screenshot(349).png">
+    <img src="fourth/slim19.png">
 
-    <img src="fourth/Screenshot(350).png">
+    <img src="fourth/slim20.png">
 
-    <img src="fourth/Screenshot(351).png">
+    <img src="fourth/zara.png">
 
     -Congratulatory mesage after order been placed through email sending
-    <img src="third-3/Screenshot(311).png">
+    <img src="fivth-5/zara2.png">
 
-    <img src="third-3/Screenshot(344).png">
+    <img src="fivth-5/zara3.png">
 
     -You can also view  and save your work by following the procedures, It looks like his:
-    <img src="fourth-4/Screenshot(309).png">
+    <img src="fivth-5/zara6.png">
 
-    <img src="fourth-4/Screenshot(310).png">
+    <img src="fivth-5/zara5.png">
 
-    <img src="fourth-4/Screenshot(307).png">
+    <img src="fivth-5/zara4.png">
 
    ##WE MOVE TO THE BLOG SECTIONS
    -This section is created  for the purpose of viewing and following any new update in services and other related things, that's the look on large and small screens
 
-    <img src="sixth-6/Screenshot(332).png">
-    <img src="sixth-6/Screenshot(323).png">
-    <img src="sixth-6/Screenshot(337).png">
+    <img src="sixth-6/zara8.png">
+    <img src="sixth-6/zara9.png">
+    <img src="sixth-6/zara10.png">
 
 
 
    ##WE MOVE TO THE GALLERY/SOCIAL MEDIA SECTION
    -This is the gallery sections where you see foods,drinks and more services they offer, also they tend to promote their social media networks in this section because this place is set out for them.Both large and meduim devices are viewed here.
-    <img src="sixth-6/Screenshot(341).png">
-    <img src="sixth-6/Screenshot(342).png">
-    <img src="sixth-6/Screenshot(339).png">
-    <img src="sixth-6/Screenshot(338).png">
+    <img src="seventh-7/zara11.png">
+    <img src="seventh-7/zara12.png">
+    <img src="seventh-7/zara14.png">
+    <img src="seventh-7/zara13.png">
 
 
     ##WE MOVE TO THE CONTACT-US SECTION
     -This is where our php mailer functions comes in place. We created this section for reaching to users more efficiently.Here's how it looks :
-    <img src="sixth-6/Screenshot(334).png">
-    <img src="sixth-6/Screenshot(333).png">
-    <img src="sixth-6/Screenshot(336).png">
-     <img src="sixth-6/Screenshot(335).png">
+    <img src="eight/zara15.png">
+    <img src="eight/zara16.png">
+    <img src="eight/zara17.png">
+     <img src="eight/zara18.png">
 
 
 
