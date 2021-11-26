@@ -17,7 +17,7 @@ This is a project that was created for the main purpose of practising front end 
 
   ##Small Screen Sections
  <img src="eight/gobe.png">
- 
+
  ## Built with         
     -HTML(Hypertext Mark-up Language)
     -CSS(Cascading Styles Sheet)
@@ -26,6 +26,7 @@ This is a project that was created for the main purpose of practising front end 
             
   ##process## ##Process ##Process  ##Process ##Process   
    OVERVIEW(/.HTML/)
+
    - Practise using the sematic mark-up for better work output.
    - Practise using sematic elements, headers, and paragraph tags.
    - practise proper linking of pages within a container, both externally and internally.
@@ -33,6 +34,7 @@ This is a project that was created for the main purpose of practising front end 
     -Also practised for the building of modern website using block level,inline and float property.
          
    OVERVIEW(/.css/)
+
      - practise of Using of complex grids, flex-box and other similar utilities.
      - Stylinf of blocklevel and inline level element.
      - Using the position property to bring out the beauty of the page.
@@ -40,10 +42,12 @@ This is a project that was created for the main purpose of practising front end 
      - Styling of buttons to bring out colorful hover effects.
 
     OVERVIEW(/.JS/)
+
     - Giving most of the elelments basic functions.
     - Fixing up a functional pop-up, menu-bar sections.
     
     OVERVIEW(/.php/)
+    
      - Using php for various form vaildations.
      - Practised combining php and mysql to store user data and input.
      - Practised giving call-backs to worng information output.
