@@ -12,10 +12,12 @@ This is a project that was created for the main purpose of practising front end 
 
  ## picture sample of our work;
  ##Large Screen Sections
+ 
  <img src="first-1/ada.png">
 
 
   ##Small Screen Sections
+  
  <img src="eight/gobe.png">
 
  ## Built with         
@@ -38,9 +40,11 @@ This is a project that was created for the main purpose of practising front end 
    - structure of differen, and proper display of markup's in a container.
    
    - also practised for the building of modern website using block level,inline and float property.
+   
+   
            
      OVERVIEW(/.css/)
-   
+     
     - practise of Using of complex grids, flex-box and other similar utilities.
      
     - Styling of blocklevel and inline level element.
