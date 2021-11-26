@@ -32,23 +32,23 @@ This is a project that was created for the main purpose of practising front end 
 
     -This is the footer section in the home page, below dates you can see working hours, time was during the morning so they were closed.Both screen sizes are shown
     
-    <img src="first-1/slim4.png">
+  <img src="first-1/slim4.png">
 
-    <img src="first-1/slim5.png">
+  <img src="first-1/slim5.png">
     
     -In the contact us section when you clicvk on email a pop-up comes up, view:
-    <img src="first-1/slim6.png">
+  <img src="first-1/slim6.png">
     
     -Look at the beautiful discover me section.
-    <img src="second-2/slim10.png">
+  <img src="second-2/slim10.png">
 
     ##WE MOVE TO THE TEAM and ABOUT US SECTION
     -These are the various people working here: view.
-    <img src="second-2/slim7.png">
+  <img src="second-2/slim7.png">
 
-    <img src="second-2/slim8.png">
+  <img src="second-2/slim8.png">
 
-    <img src="second-2/slim9.png">
+  <img src="second-2/slim9.png">
     
     
     ##WE MOVE TO THE MENU and SIGN-IN SECTION
