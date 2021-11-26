@@ -26,19 +26,18 @@ This is a project that was created for the main purpose of practising front end 
             
   ##process## ##Process ##Process  ##Process ##Process   
 
-  
-   OVERVIEW(/.HTML/)
 
+   OVERVIEW(/.HTML/)
    - Practise using the sematic mark-up for better work output.
    - Practise using sematic elements, headers, and paragraph tags.
    - practise proper linking of pages within a container, both externally and internally.
    - Structure of differen, and proper display of markup's in a container.
-    -Also practised for the building of modern website using block level,inline and float property.
+   - Also practised for the building of modern website using block level,inline and float property.
          
    OVERVIEW(/.css/)
 
      - practise of Using of complex grids, flex-box and other similar utilities.
-     - Stylinf of blocklevel and inline level element.
+     - Styling of blocklevel and inline level element.
      - Using the position property to bring out the beauty of the page.
      - Practise how to design a form with little validations.
      - Styling of buttons to bring out colorful hover effects.
