@@ -24,7 +24,6 @@ This is a project that was created for the main purpose of practising front end 
     -Js(Java-script)
     -PhP(Hypertext-preprocessor)
             
-  ##process## ##Process ##Process  ##Process ##Process   
 
    OVERVIEW(/.HTML/)
    
