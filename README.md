@@ -35,7 +35,6 @@ This is a project that was created for the main purpose of practising front end 
    - Also practised for the building of modern website using block level,inline and float property.
          
    OVERVIEW(/.css/)
-
      - practise of Using of complex grids, flex-box and other similar utilities.
      - Styling of blocklevel and inline level element.
      - Using the position property to bring out the beauty of the page.
