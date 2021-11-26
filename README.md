@@ -23,21 +23,10 @@ This is a project that was created for the main purpose of practising front end 
     -CSS(Cascading Styles Sheet)
     -Js(Java-script)
     -PhP(Hypertext-preprocessor)
+      
+      ##PROCESS     ##PROCESS   ##PROCESS
             
-
-   OVERVIEW(/.HTML/)
-   
-   - Practise using the sematic mark-up for better work output.
-   - 
-   - Practise using sematic elements, headers, and paragraph tags.
-   - 
-   - practise proper linking of pages within a container, both externally and internally.
-   - 
-   - Structure of differen, and proper display of markup's in a container.
-   - 
-   - Also practised for the building of modern website using block level,inline and float property.
-         
-   OVERVIEW(/.css/)
+     OVERVIEW(/.css/)
    
     - practise of Using of complex grids, flex-box and other similar utilities.
      
@@ -48,6 +37,18 @@ This is a project that was created for the main purpose of practising front end 
     - Practise how to design a form with little validations.
      
     - Styling of buttons to bring out colorful hover effects.
+    
+       OVERVIEW(/.HTML/)
+   
+   - Practise using the sematic mark-up for better work output.
+   
+   - Practise using sematic elements, headers, and paragraph tags.
+   
+   - practise proper linking of pages within a container, both externally and internally.
+   
+   - Structure of differen, and proper display of markup's in a container.
+   
+   - Also practised for the building of modern website using block level,inline and float property.
 
     OVERVIEW(/.JS/)
 
