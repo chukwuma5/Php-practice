@@ -56,7 +56,7 @@ This is a project that was created for the main purpose of practising front end 
 
     ##STARTING WITH THE HOME SECTION
     -This how the home page looks, on both small and large screen.
-    <img src="first-1/slim2.png">
+    <img src="first-1/jo.png">
 
     <img src="first-1/slim3.png">
 
